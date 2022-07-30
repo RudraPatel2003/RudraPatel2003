@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rudra Patel</h1>
 <h3 align="center">A computer science student at the University of Tennessee</h3>
 
+- 🖥 Check out my personal website: [rudrapatel.net](https://rudrapatel.net)!
 - 🔭 I’m currently working on **productivist, a to-do list website**
 
 - 🌱 I’m currently learning **front-end development, including HTML, CSS, JavaScript, and JavaScript frameworks such as React**
