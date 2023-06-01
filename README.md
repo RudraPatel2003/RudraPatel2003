@@ -2,7 +2,7 @@
 <h3 align="center">A computer science student at the University of Tennessee</h3>
 
 - 🖥 Check out my personal website: [rudrapatel.net](https://rudrapatel.net)!
-- 🔭 I’m currently working with **Hack4Impact UTK** on an [internal warehouse/inventory management system](https://github.com/hack4impact-utk/community-coalition-against-human-trafficking) for the **Community Coalition Against Human Trafficking**.
+- 🔭 I’m currently working with the **Knoxville Utilities Board** as a **Software Developer Intern**.
 
 - 🌱 I’m currently learning **full-stack web development** on my own time and through Hack4Impact alongside **C++ and Java** through coursework.
 
